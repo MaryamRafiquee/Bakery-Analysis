@@ -6,6 +6,8 @@ This repository contains a detailed analysis of a bakery's transactional data. T
 
 The goal of this project was to explore the dataset, uncover patterns and trends in customer behavior, and provide actionable insights for the bakery's operations. This analysis was conducted as part of a guided project to enhance my data analysis skills.
 
+**Note:** This is a guided project
+
 ## Key Objectives
 
 - **Data Cleaning and Preparation**: Handle missing values, correct data types, and prepare the dataset for analysis.
